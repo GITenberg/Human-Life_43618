@@ -1,0 +1,30 @@
+_repo: Human-Life_43618
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43618-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Knight, Sherwood Sweet
+    birthdate: 1876
+    gutenberg_agent_id: '42328'
+    url: http://www.gutenberg.org/2009/agents/42328
+description: ''
+gutenberg_issued: '2013-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43618'
+  lccn: '10027210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life'
+- !lcc 'BD'
+- !lcsh 'Human beings'
+tableOfContents: The habitat of man -- The length of time during which man has existed
+  -- The physical limitations of existence -- The purpose of life -- Knowledge and
+  education -- Religion and ethics -- Love -- Problems of the future.
+title: Human Life
+url: http://www.gutenberg.org/ebooks/43618
