@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42328'
     url: http://www.gutenberg.org/2009/agents/42328
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43618#Human-Life
 gutenberg_issued: '2013-09-01'
 gutenberg_type: Text
 identifiers:
